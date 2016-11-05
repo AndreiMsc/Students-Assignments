@@ -11,4 +11,4 @@ This application allows to:
 1. Manage the list of students and available assignments. The application must allow the user to
 add, remove, update, and list both students and assignments.
 
-(will followe more)
+(will follow more)
