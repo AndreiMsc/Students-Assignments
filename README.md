@@ -2,9 +2,9 @@
 This application manages assignments for students at a given discipline. The application
 will store:
 
- Student: <studentID>, <name>, <group>.
- Assignment: <assignmentID>, <description>, <deadline>, <grade>.
- Grade: <assignmentID>, <studentID>, <grade>.
+ Student: StudentID, name, group
+ Assignment: AssignmentID, description, deadline, grade.
+ Grade: AssignmentID, StudentID, grade.
 
 This application allows to:
 
