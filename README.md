@@ -11,4 +11,8 @@ This application allows to:
 1. Manage the list of students and available assignments. The application must allow the user to
 add, remove, update, and list both students and assignments.
 
+2. Give assignments to a student or a group of students (unless already given). In case an
+assignment is given to a group of students, every student in the group will receive it. In case
+there exist students who were previously given that assignment, it will not be assigned again.
+
 (will follow more)
