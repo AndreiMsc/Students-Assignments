@@ -8,6 +8,8 @@ will store:
 
 This application allows to:
 
+1.x
+
 1. Manage the list of students and available assignments. The application must allow the user to
 add, remove, update, and list both students and assignments.
 
@@ -15,4 +17,4 @@ add, remove, update, and list both students and assignments.
 assignment is given to a group of students, every student in the group will receive it. In case
 there exist students who were previously given that assignment, it will not be assigned again.
 
-(will follow more)
+2.x (will follow more)
