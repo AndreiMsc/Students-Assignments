@@ -10,22 +10,22 @@ This application allows to:
 
 ### Version 1.x
 
-  1: Manage the list of students and available assignments. The application must allow the user to add, remove, update, and list both students and assignments.
+  **1:** Manage the list of students and available assignments. The application must allow the user to add, remove, update, and list both students and assignments.
 
-  2: Give assignments to a student or a group of students (unless already given). In case an
+  **2:** Give assignments to a student or a group of students (unless already given). In case an
 assignment is given to a group of students, every student in the group will receive it. In case there exist students who were previously given that assignment, it will not be assigned again.
 
 ### Version 2.1
 
-(All of the above)
+**(All of the above)**
 
-  3: Grade student for a given assignment. When grading, the program allows the user to select the assignment that is graded, from the student’s list of ungraded assignments. A student’s grade for a given assignment cannot be changed. Deleting a student also removes their assignments. Deleting an assignment also removes all grades at that assignment.
+  **3:** Grade student for a given assignment. When grading, the program allows the user to select the assignment that is graded, from the student’s list of ungraded assignments. A student’s grade for a given assignment cannot be changed. Deleting a student also removes their assignments. Deleting an assignment also removes all grades at that assignment.
 
 ### Version 2.2
 
-(All of the above)
+**(All of the above)**
 
-  4: Statistics:
+  **4:** Statistics:
 
 o All students who received a given assignment, ordered alphabetically or by average grade for that assignment.
 
@@ -37,7 +37,7 @@ o All assignments for which there is at least one grade, sorted in descending or
 
 ### Version 2.3
 
-(All of the above) + fixed bugs
+**(All of the above) + fixed bugs**
 
 ### Version 3.x
 
