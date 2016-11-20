@@ -42,3 +42,5 @@ o All assignments for which there is at least one grade, sorted in descending or
 ### Version 3.x
 
 (will follow)
+
+**NOTE: This application uses: object-oriented programming, layered architecture,  implementation of own exception classes, classes.**
