@@ -44,6 +44,10 @@ received for all assignments.
 o All assignments for which there is at least one grade, sorted in descending order of the
 average grade received by all students who received that assignment.
 
+Version 2.3
+
+(All of the above) + fixed bugs
+
 Version 3.x
 
 (will follow)
