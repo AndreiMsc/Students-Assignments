@@ -21,11 +21,25 @@ Version 2.1
 
 (All of the above)
 
-3. Grade student for a given assignment. When grading, the program must allow the user to select
+3. Grade student for a given assignment. When grading, the program allows the user to select
 the assignment that is graded, from the student’s list of ungraded assignments. A student’s
 grade for a given assignment cannot be changed. Deleting a student also removes their
 assignments. Deleting an assignment also removes all grades at that assignment.
 
 Version 2.2
+
+(All of the above)
+
+4. Statistics:
+o All students who received a given assignment, ordered alphabetically or by average
+grade for that assignment.
+o All students who are late in handing in at least one assignment. These are all the
+students who have an ungraded assignment for which the deadline has passed.
+o Students with the best school situation, sorted in descending order of the average grade
+received for all assignments.
+o All assignments for which there is at least one grade, sorted in descending order of the
+average grade received by all students who received that assignment.
+
+Version 3.x
 
 (will follow)
