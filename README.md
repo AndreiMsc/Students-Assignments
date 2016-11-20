@@ -25,7 +25,7 @@ assignment is given to a group of students, every student in the group will rece
 
 **(All of the above)**
 
-  **4:** Statistics:
+  **4:** Create (and list) statistics:
 
 o All students who received a given assignment, ordered alphabetically or by average grade for that assignment.
 
