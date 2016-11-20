@@ -43,4 +43,4 @@ o All assignments for which there is at least one grade, sorted in descending or
 
 (will follow)
 
-**NOTE: This application uses: object-oriented programming, layered architecture,  implementation of own exception classes, classes.**
+**NOTE: This application uses: object-oriented programming, console-based user interface based on a menu system.**
