@@ -20,7 +20,6 @@ there exist students who were previously given that assignment, it will not be a
 Version 2.1
 
 (All of the above)
-
 3. Grade student for a given assignment. When grading, the program allows the user to select
 the assignment that is graded, from the student’s list of ungraded assignments. A student’s
 grade for a given assignment cannot be changed. Deleting a student also removes their
@@ -29,7 +28,6 @@ assignments. Deleting an assignment also removes all grades at that assignment.
 Version 2.2
 
 (All of the above)
-
 4. Statistics:
 o All students who received a given assignment, ordered alphabetically or by average
 grade for that assignment.
