@@ -39,6 +39,10 @@ o All assignments for which there is at least one grade, sorted in descending or
 
 **(All of the above) + fixed bugs**
 
+### Version 2.4
+
+**(All of the above) + specifications for all + small tests for domain and repository**
+
 ### Version 3.x
 
 (will follow)
