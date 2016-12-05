@@ -43,8 +43,8 @@ o All assignments for which there is at least one grade, sorted in descending or
 
 **(All of the above) + specifications for all + small tests for domain and repository**
 
-### Version 3.x
+### Version 3.1
 
-(will follow)
+**(All of the abouve) + unlimited undo/redo functionalities**
 
 **NOTE: This application uses: object-oriented programming, console-based user interface based on a menu system.**
