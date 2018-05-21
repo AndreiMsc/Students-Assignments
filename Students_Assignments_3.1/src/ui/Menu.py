@@ -8,6 +8,8 @@ from validator.Assignment_validator import Assignment_validation_exception, Assi
 from validator.Student_validator import Student_validation_exception, Student_repository_exception
 import copy
 
+Walk walk = new Walk();
+
 class Menu:
     '''
     classdocs
